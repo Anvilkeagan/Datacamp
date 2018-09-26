@@ -1,0 +1,13 @@
+making an executable in bash
+--chmod u+x filename
+
+Playing with config files
+--git config --global filter.clean_ipynb.clean ipynb_drop_output
+--git config --file .gitconfig filter.clean_ipynb.clean ipynb_drop_output
+
+Add files in preperation for the commit
+--git add Folder/
+
+Push added files to remote repository
+-- git push https://github.com/Anvilkeagan/Datacamp master
+-- Format github_URL, branch
